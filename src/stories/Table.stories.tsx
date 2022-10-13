@@ -1,6 +1,6 @@
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
-import { Table as Component } from './Table';
+import { Table as Component } from '../components';
 
 export default {
   title: 'Component-lib/Table',

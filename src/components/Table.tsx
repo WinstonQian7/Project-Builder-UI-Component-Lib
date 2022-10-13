@@ -1,5 +1,5 @@
 import React, { useState, ReactNode, useEffect } from 'react';
-import { Checkbox } from "./Checkbox";
+import { Checkbox } from ".";
 import styled, { css } from 'styled-components';
 
 const TableStyle = styled.div`
