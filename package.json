@@ -1,7 +1,7 @@
 {
-  "name": "component-lib",
+  "name": "@winstonqian7/component-lib",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@types/node": "^16.11.48",
     "@types/react": "^18.0.17",
@@ -80,5 +80,17 @@
     "@semantic-release/github",
     "@semantic-release/npm",
     "@semantic-release/git"
-  ]
+  ],
+  "description": "Components Lib using React-Typescript, storybook, and styled components for use on coding projects",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinstonQian7/UI-Component-Lib.git"
+  },
+  "author": "Winston Qian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WinstonQian7/UI-Component-Lib/issues"
+  },
+  "homepage": "https://github.com/WinstonQian7/UI-Component-Lib#readme"
 }
